@@ -1,0 +1,18 @@
++++
+title = "Title"
+description = ""
+type = ["posts","post"]
+tags = [
+    "tag1",
+    "tag2",
+    "tag3",
+    
+]
+date = "2021-09-09"
+series = ["seriesName"]
+[ author ]
+  name = "Adnan Baig"
++++
+
+
+
