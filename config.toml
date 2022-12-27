@@ -1,4 +1,4 @@
-baseURL = "https://musical-semolina-c8b704.netlify.app/"
+baseURL = "https://baigelbytes.netlify.app/"
 title   = "Baigel Bytes"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
