@@ -193,13 +193,22 @@ disableHugoGeneratorInject = false
     identifier = "blog"
     name       = "Blog"
     url        = "blog/"
+
   [[menu.main]]
-    identifier = "lifecoaching"
-    name       = "Life Coaching"
-    url        = "lifecoaching/"
+    identifier = "poems"
+    name       = "Poems"
+    url        = "poems/"
+
+
+
+
+#  [[menu.main]]
+#    identifier = "lifecoaching"
+#    name       = "Life Coaching"
+#    url        = "lifecoaching/"
     
-  [[menu.main]]
-    identifier = "supportme"
-    name       = "Support Me"
-    url        = "supportme/"
+#  [[menu.main]]
+#    identifier = "supportme"
+#    name       = "Support Me"
+#    url        = "supportme/"
 
