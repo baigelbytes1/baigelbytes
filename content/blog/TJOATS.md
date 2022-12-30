@@ -127,87 +127,26 @@ And this brings me to my next point:
 
 Do > Fail > Learn > Adapt > Repeat. That's how you progress in a nutshell. Learn from your mistakes and you will count them as blessings. Don't and you will curse yourself and them forever.
 
-Keep analysing what your doing to achieve your goals as well as what the result is of what you’re doing. If what you’re doing is ultimately taking you away from your goals then you need to adapt and change in order to get moving in the right direction again.
+Keep analysing what your doing to achieve your goals as well as what the result is of what you’re doing. If what you’re doing is ultimately taking you away from your goals then you need to adapt and change in order to get moving in the right direction again. If the result of what you're doing is working and moving you in the right direction then great! Keep on going!
 
+All you have to do then is refine and repeat.
+
+Remember, regardless of how you feel, regardless of how much motivation you have or are lacking, **REGARDLESS OF ALL VARIABLES** in any and every given moment you have **everything** you need to take that next step towards you goals.
 
 
 ---
 
-1. Getting Started
-2. Consistency
-3. Balance
-4. Adaptation
 
-## Getting Started:
-
-It’s as simple as it sounds. **START**.
-
-Decide what it is you want to achieve, write it down and then map out the processes, habits and skills you have or that you’ll have to learn and employ to get there. Then…. **START**.
-
-> “The journey of a thousand steps begins with just one.”
-> 
-
-This is a quote that I used to see every time I used to go to the Aikido dojo to train years ago. It’s true. It really is that simple. **Just - take - that - first - step.**
-
-## Consistency, focus on the process not the goal.
-
-Perhaps more important than starting or at the very least just as important is keeping going. Continuing.
-
-Carrying on when you feel like it, when you don’t feel like it, when you’re motivated, when you’re not motivated, when you’re well, when your’re not well, when you love the work and when you hate the work.
-
-Once you have decided on what your goals are you need to decide on who you will need to become in order to achieve them. What habits will you need to adopt?
-
-Want to build muscle or lose fat, or both? You’re going to have to be someone who works out consistently. You’re going to have to sleep a consistent number of hours every night. You’re going to have to be the kind of person who never over eats, ever.
-
-Want to start a blog or write a book? You’re going to have to be the kind of person who at the very least reads and writes every - single - day.
-
-Volume over quantity leads to better quality in less time than if you only and exclusively care about quality. You can do that when you’ve mastered the skills you’re trying to learn but in the beginning you’re going to have to establish consistency.
-
-**Making consistent progress is as simple as consistently working on progressing.** That’s it.
-
-## Balance:
-
-I wanted to be able to get more done every day but one of the limiting factors (or so I thought at the time) was the inconsistent nature of the hours I worked at my day job in terms of the shifts I get given.
-
-To remedy this I decided to get less sleep. I work in retail and my hours including commuting time can be as much as 6:30 to 20:30 6 days a week and then 09:30 to 5:30 on Sundays. Because of this is decided I wanted to wake up as early as possible. I decided I would get up at 3am every morning. It worked for about 2 days and then I ended up feeling so tired I just couldn’t work my brain after coming home from work.
-
-The mornings were great, I got more done in a typical morning than I used to get done in a week but before long I was waking up a 3am one day and then basically sleeping for the next 2 days straight outside of work.
-
-That was when I decided to add one more hour of sleep and bring the total up to 6 hours a night. I hated the idea of getting more sleep because I felt like I could get so much done in an hour that sleeping through it would just be a colossal waste of time **BUT** I actually managed to get more done over the next few days because I was waking up and working on my goals every - single - day.
-
-That’s how I got this blog up and running again FFS! 2200 to 0400 is now my sleeping patter and I’m still going to gradually try and reduce it over time to see how little sleep I can get and still be functional but for now I’m sticking with 6 hours.
-
-Consistency is inescapable. If you want to make progress you **HAVE** to be consistent.
-
-Working at 10,000% capacity for only a day and then doing nothing for a week will get you nowhere! Working at 100% everyday, day in, day out will lead to **GUARANTEED,** and I mean **GUARANTEED** progress.
-
-I went on a similar journey with exercise when I decided to workout 3 times a day (morning, lunch break & evening) despite the fact I was doing 70 hours a week at work at that time. It lasted 3 days and then I gave up and bought a pizza.
-
-For the last 3 days I’ve up at 4am and done a mini workout (and I do mean mini) of just 15 push ups, 10 burpees and 5 navy seal burpees.
-
-I’m not concerning myself with the fact that this will make it take longer for me to get fit because I’m more concerned with consistency. Once I’m consistent and have formed the habit of getting up and working out then I can increase the sets and reps overtime until eventually I’m doing a full blown workout that will get me more results in less time.
-
-And this brings me to my next point:
-
-## Adaptability:
-
-Keep analysing what your doing to achieve your goals as well as what the result is of what you’re doing. If what you’re doing is ultimately taking you away from your goals then you need to adapt and change in order to get moving in the right direction again.
-
----
-
-Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting. If you'd like to read more articles like this feel free to follow me on social media using the links on [the homepage](https://baigelbytes.github.io/lifecoachbaig/) or below.
+Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting or helpful. If you'd like to read more articles like this feel free to follow me on social media using the links on [the homepage](https://baigelbytes.netlify.app) or below.
 
 If you'd like to support my work feel free to share my posts or website on social me.
 
 There's no preassure to do so however. If all you do is read my articles that's fine and if you find them informative, entertaining or helpfull please feel free to share them as much as you like! :)
 
 
-[Life coaching page](https://baigelbytes.github.io/lifecoachbaig/lifecoaching/)
+[Twitter](https://twitter.com/BaigelBytes)
 
-[Facebook](https://www.facebook.com/adnan.baig.73)
+[Instagram](https://www.instagram.com/baigelbytes1/)
 
-[Instagram](https://www.instagram.com/adnanbaig601/)
-
-[Twitter](https://twitter.com/adnanbaig601)
-
+<!---[Telegram](insert telegram address here)--->
 
