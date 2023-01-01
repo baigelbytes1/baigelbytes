@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "A blog featuring topics that interest me and hopefully you too! Also, I'm a certified life coach :)"
+  homeSubtitle = "A blog featuring topics that interest me and hopefully you too!"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -156,31 +156,35 @@ disableHugoGeneratorInject = false
   #   maxWidth = "50px"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/adnanbaig601"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:baigelbytes@gmail.com"
+    url  = "mailto:baigelbytes1@gmail.com"
 
-    [[params.social]]
-    name = "facebook"
-    url  = "https://www.facebook.com/adnan.baig.73"
+
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/baigelbytes"
+
+
+#    [[params.social]]
+#    name = "facebook"
+#    url  = "https://www.facebook.com/adnan.baig.73"
   
-   [[params.social]]
-    name = "instagram"
-    url  = "https://www.instagram.com/adnanbaig601/"
+#   [[params.social]]
+#    name = "instagram"
+#    url  = "https://www.instagram.com/baigelbytes1/"
  
 
 [languages]
   [languages.en]
-    subtitle  = "A blog featuring topics that interest me and hopefully you too! Also, I'm a certified life coach :)"
+    subtitle  = "A blog featuring topics that interest me and hopefully you too!"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
-    subtitle  = "A blog featuring topics that interest me and hopefully you too! Also, I'm a certified life coach :)"
+    subtitle  = "A blog featuring topics that interest me and hopefully you too!"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 

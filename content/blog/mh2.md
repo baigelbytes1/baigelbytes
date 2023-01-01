@@ -96,21 +96,13 @@ Hope this helps you as much as it has helped me!! :)
 
 
 
+
 ---
 
-Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting. If you'd like to read more articles like this feel free to follow me on social media using the links on [the homepage](https://baigelbytes.github.io/lifecoachbaig/) or below.
 
-I'm trying to turn this into a full time career. If you'd like to support my work and help me reach that goal, head to my [support me](https://baigelbytes.github.io/lifecoachbaig/supportme/) page to see how you could do just that.
+Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting or helpful. If you'd like to read more articles like this feel free to follow me on twitter using the links on [the homepage](https://baigelbytes.netlify.app) or below.
 
-There's no preassure to do so however. If all you do is read my articles that's fine and if you find them informative, entertaining or helpfull please feel free to share them as much as you like! :)
-
-
-[Life coaching page](https://baigelbytes.github.io/lifecoachbaig/lifecoaching/)
-
-[Facebook](https://www.facebook.com/adnan.baig.73)
-
-[Instagram](https://www.instagram.com/adnanbaig601/)
-
-[Twitter](https://twitter.com/adnanbaig601)
+If you'd like to support my work feel free to share my posts or website on social media. If there's a topic you'd like me to consider feel free to email me at baigelbytes1@gmail.com
 
 
+[Twitter](https://twitter.com/BaigelBytes)

@@ -149,25 +149,13 @@ https://www.nhs.uk/service-search/mental-health/find-an-urgent-mental-health-hel
 
 
 
+
 ---
 
-Thanks for reading this article! I genuinely hope you found it helpful. Remember, whatever you're going through there is always help available!
 
-Feel free to reach out to me at baigelbytes@gmail.com if you'd like any further advice or information on life coaching or if you would be interested in trying it out and again, **don't hesitate to use the links above if you feel like you're in a crisis or dial 999 if it's an emergency.**
+Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting or helpful. If you'd like to read more articles like this feel free to follow me on twitter using the links on [the homepage](https://baigelbytes.netlify.app) or below.
 
-If you'd like to read more articles like this feel free to follow me on social media using the links on [my homepage](https://baigelbytes.github.io/lifecoachbaig/) or below.
-
-I'm trying to turn this into a full time career. If you'd like to support my work and help me reach that goal, head to my [support me](https://baigelbytes.github.io/lifecoachbaig/supportme/) page to see how you could do just that.
-
-There's no preassure to do so however. If all you do is read my articles that's fine and if you find them informative, entertaining or helpfull please feel free to share them as much as you like! :)
+If you'd like to support my work feel free to share my posts or website on social media. If there's a topic you'd like me to consider feel free to email me at baigelbytes1@gmail.com
 
 
-[Life coaching page](https://baigelbytes.github.io/lifecoachbaig/lifecoaching/)
-
-[Facebook](https://www.facebook.com/adnan.baig.73)
-
-[Instagram](https://www.instagram.com/adnanbaig601/)
-
-[Twitter](https://twitter.com/adnanbaig601)
-
-
+[Twitter](https://twitter.com/BaigelBytes)
