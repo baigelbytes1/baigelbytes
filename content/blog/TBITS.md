@@ -28,6 +28,8 @@ This blog is one of those processes and another is sleep hygeine, or getting up 
 
 I have a day job so 'as long as possble' would have meant getting up at 7am which would have been a 3 hour lye in. Let me tell you, I **REALLY** wanted to just get back into bed and go to sleep. But with Gods help I was able to stay out of bed and start my day.
 
+## A not so routine morning.
+
 A mini workout and then a shower. The water was hot, which at 4:30am isn't what usually happens. I got happy but then I remembered I was trying to get into the habit of taking cold showers, so, VERY reluctantly, I turned the dial around.
 
 I carried on with the shower washing my hair and beard and trying to remember Wim Hoffs breathing methods but probably looking more like a woman in labour and then I remembered, I was supposed to start meditating again.

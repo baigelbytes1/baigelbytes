@@ -56,7 +56,7 @@ Whatever it is, picture that and then make it an intrinsic part of yourself. Ass
 
 Also, it's important to note that this technique does not actually make the pain go away. It may lessen it slightly but really it helps you handle it better. Part of this is achieved by first acknowlageing your pain and accepting it as a reality, but a reality that is at least to some lesser or greater extent a creation of the mind.
 
-I talk more about this in [my other article](https://baigelbytes.github.io/lifecoachbaig/blog/mh/) on mental health tips which I reccomend you read after this if you haven't already. It features some other techniques that have helped me overcome or better cope with mental health issues.
+I talk more about this in [my other article](https://baigelbytes.netlify.app/blog/mh/) on mental health tips which I reccomend you read after this if you haven't already. It features some other techniques that have helped me overcome or better cope with mental health issues.
 
 ## Cultivating patience with prayer beads:
 
