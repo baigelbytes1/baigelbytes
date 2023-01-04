@@ -53,6 +53,54 @@ I don't *need* to eat today. I'm not going to die from skipping food for one day
 
 I'll update this article tonight with what happens.
 
+## The Updates:
+
+So how did my day go? Lets look at my journal.
+
+**14:49:**
+
+Somethings happening. Like when I started taking cold showers and pushing through the discomfort or when I started going through my mini workoout this morning despite really **REALLY** not wanting to!
+
+It's a feeling of power or self control, or a slight increase in confidence in myself. I've been getting headaches perhaps from the 2 litres off coffee leaving my body and I've obviously been getting lots of cravings especially when someone at work was kind enough to bring in fresh hot samosas that for some reason smelt like KFC.
+
+There were a few moments when I felt like I was going togive up and some moments where I almost did but I kept remembering that I actually told myself this morning that I wouldn't and all the times I've failed in the past so I told myself I can't just keep failing anymore. I need to have a win for once.
+
+So, for now at least. I'm still on the water fast. We'll see how the rest of the day goes.
+
+
+**16:46:**
+
+craving food. Headaches still annoying me. Still wanting to quit but then remembering my why and pushing on through. Not looking forward to going home because I'll have 4 more hours with myself to battle against the cravings XD.
+
+
+**18:50:**
+
+Came home over an hour ago and just been distracting myself unproductively by watching random videos on youtube as well as the sequel to The Accident Man. Stomachs hurting a little presumably because of the acid that hasn't got any food to digest. Oh well. Need to stop crying lone wolf and man the fuck up!
+
+Time to put some work in and stop wasting time. Going to work on some blog posts and then update this article before I start getting ready for bed.
+
+Viking music is helping (I love viking music!)
+
+
+**19:27:**
+
+Working on another article for my blog. DAMN this feels so much better than just sitting around watching a movie. I'm working on progress and that means I'm moving forward. It feels easier to avoid food now, I'm almost not thinking about it. Just looked at my bottle of water and didn't even feel the need to drink that.
+
+
+**21:03:**
+
+Going to start getting ready for bed soon so final update. Actually managed to get through the day without food or fluids except water. Haven't drunk any water either since the last update. Feel ok to behonest. Slight headace but thats about it.
+
+There were actually many times today when I had to turn to the Buddha in the storm but mostly just to resist the urge to eat. This isn't because it was hard to avoid eating but because I've allowed myself to get so weak by giving into impulsive and emotional eating for so long that when I eat it's almost subconcious.
+
+It's habitual and that's what I need to change. Today, it was the Buddha in the storm that helped me along with some Viking music. Like I mentioned before, if I keep working on me everyday, I'll get more wins than losses and that equals progress.
+
+
+## Conclusion, I DID IT!
+
+I did it! A one day water fast might be small potatoes for some, but for me it's progress and all progress should be celebrated. I finally fell like I'm starting to learn how to hold the reigns of my life and take control.
+
+It'll never quite be a straight line but like I mentioned before, so long as I keep trying everyday I'll gain more wins than losses and that's how progress is made and battles are won!
 
 ---
 
