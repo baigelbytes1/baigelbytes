@@ -70,7 +70,7 @@ So, for now at least. I'm still on the water fast. We'll see how the rest of the
 
 **16:46:**
 
-craving food. Headaches still annoying me. Still wanting to quit but then remembering my why and pushing on through. Not looking forward to going home because I'll have 4 more hours with myself to battle against the cravings XD.
+Craving food. Headaches still annoying me. Still wanting to quit but then remembering my why and pushing on through. Not looking forward to going home because I'll have 4 more hours with myself to battle against the cravings XD.
 
 
 **18:50:**
