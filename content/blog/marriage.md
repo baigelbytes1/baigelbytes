@@ -18,7 +18,7 @@ I keep getting asked this question by people at work and in my family and every 
 
 Yet still, they keep asking and now it’s gotten to the point where the subject occupies so much of my thoughts that it needs to be addressed.
 
-I think it’s mostly with the Asian people & the Muslim people in my life that this happens which is to be expected I guess as marriage in these cultures forms such and important part of life and the concept of non maritle relationships can sometimes be frowned upon.
+I think it’s mostly with the Asian people & the Muslim people in my life that this happens which is to be expected I guess as marriage in these cultures forms such an important part of life and the concept of non maritle relationships can sometimes be frowned upon.
 
 One person, when I questioned them as to the reasons why I should consider marriage mentioned only one thing, “You get to have sex” (Yes, that person was a man). As if sex is literally the most important thing in the universe.
 
@@ -36,11 +36,11 @@ In the year 2022 in the UK alone an estimated 42% of marriages ended in divorce.
 
 ## What am I looking for?
 
-Unislamic as it is, I think I have an advantage by not being a virgin before marriage. Sex for me now is less important than my life goals and by realising that I can avoid getting into impulsive relationships or rushing into a marriage purely based on the desire for physical intimacy. 
+Unislamic as it is, I think I have an advantage by not being a virgin before marriage. Sex for me now is less important than my life goals and by realising that, I can avoid getting into impulsive relationships or rushing into a marriage purely based on the desire for physical intimacy. 
 
 So what am I most interested in when it comes to a potential life partner?
 
-A companion. More importantly a companion that shares my hopes dreams and aspirations and who is willing to put in the work necessary to achieve them so a companion who’s also a teammate.
+A companion. More importantly a companion that shares my hopes dreams and aspirations and who is willing to put in the work necessary to achieve them, so a companion who’s also a teammate.
 
 Someone who doesn’t mind getting up early six to seven days a week (although we could allocate one day a week to live like normal people) and grinding the fuck out of every minute and every hour to make something of our lives that will allow us to achieve all our dreams goals and aspirations to be able to live how we want and help our families, friends and the communities around us.
 
@@ -56,7 +56,7 @@ This would be a slow process in the beginning but with enough people we could bu
 
 ## Why I’m not married yet.
 
-1. **Learning from the experiences of others.**
+ 1. **Learning from the experiences of others.**
 
 I think there’s only two people I know at the moment that are my age or older and still single. Especially in Asian cultures people get married very early. In Islam it’s encouraged for people to get married as early as possible. But I felt like that would be rushing things.
 
@@ -72,7 +72,7 @@ As you can see, when it comes to my family, a successful marriage is the excepti
 
 That’s quite a powerful and understandable reason I think, to avoid marriage for as long as I have.
 
-1. **I’m not yet worthy.**
+2. **I’m not yet worthy.**
 
 You may likely disagree with this. But as far as I’m concerned, if someone is going to marry me, they’re going to marry the best of me, not the worst. In Christian tradition I know there is the saying “for better or for worse” but to me this refers to occasions when, despite both peoples genuine best efforts, life doesn’t go as they planned.
 
@@ -87,10 +87,13 @@ More than a year on from this realisation I’m still figuring that process out.
 These are:
 
 - **Financial stability and security.**
+
 Having only one income source is the least financially secure a person can be. It’s almost the same as not having any income sources at all because at any time, anything can happen and I could lose my job. Financial security to me means having at least two or preferably three, stable consistent income sources as a minimum.
 
 Furthermore, these need to be income sources where for the most part, I’m not simply trading time for money because then, how will I give any time to my other half?
+
 - **Physical fitness and aesthetics to be proud of.**
+
 If I can’t love myself, how can I expect anyone else to love me? When I look in the mirror, I see some progress compared to my past, but nothing substantial. Mostly, I see what I could be if only I put in the effort. I see my potential and how much of it I’ve wasted over the years but also how simple it would be to look ****SO**** much better than I do now. When it comes to thinking about how we look, I can conceive of two choices: Either I change my mind to accept the way I am now. Or, I change my body to match what I know it could be.
 
 I’ve tried changing my mind. Many, many, ********many******** times. It never worked. Knowing I could be better if only for a little pain. I cannot accept the state I am in now. I need to change and this change is, regardless of how I feel, going to require great sacrifice now, and for the rest of my life.
@@ -98,9 +101,13 @@ I’ve tried changing my mind. Many, many, ********many******** times. It never 
 That’s whats so hard about it. The ‘rest of my life part’ I’m just as human as anyone else, I like ice cream and chocolate and pizza and kebabs, and cakes and cookies and burgers and… wait… what was I talking about again? ********SEE what I mean!?******** I’m weak. Weak as hell when it comes to food. It’s my Achilles heel, my kryptonite as the people who see me on a daily basis know all too well.
 
 This leads me to my third requirement:
+
 - **Discipline. Plain and simple.**
+
 Getting out of my bad habits will and can only happen one way. Buy building a habit of cultivating, training and exercising discipline in as many areas of my life as possible on a daily basis regardless of whether I want to or not. Regardless of how hard it gets.
+
 - **My current values do not (I believe) align with married life.**
+
 Currently, there are three things in my life that I value above all others.
 
 Peace, Quiet and Freedom.
@@ -128,10 +135,15 @@ Seeing this, I can at least imagine that there might be some benefits to married
 Despite the mostly negative experiences of marriage I’ve observed, I’m not blind to at least some of the benefits that I would like to experience such as:
 
 - **Companionship.**
+
 Emotional, spiritual, intellectual and physical companionship. It’s nice to have someone there, to share your time with, to share your life with. To have someone in your arms when you wake up in the morning. To have someone who you can talk with about the most random topics on the deepest levels. To have someone know you, as well as you do.
+
 - **A second perspective.**
+
 Having another person who knows you as well as you do can be extremely beneficial. They can help point out when you’re not putting in 100% towards you goals or if there may be better ways to do some things that you would never have thought of.
+
 - **Twice the hands, half the work.**
+
 Provided I choose a partner who has the same or similar goals and aspirations to me we can both help each other to get there and this means we could pool resources and balance workloads fairly between two people which would mean that idealistically, no one individual would ever feel like they have the weight of the entire mission on their shoulders.
 
 This is another reason why I haven’t just doven head first into marriage with the first person who came along. I’m not looking for just anyone. If someone’s ideal life is day job followed by Netflix and chill every day of the week and waking up at 3 PM on weekends then we are not a match!
