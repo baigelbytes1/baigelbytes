@@ -1,0 +1,166 @@
++++
+title = "When will I get married? A genuine consideration."
+description = ""
+type = ["posts","post"]
+tags = [
+    "",
+    "",
+    "",
+    
+]
+date = "2023-01-29"
+series = [""]
+[ author ]
+  name = "Adnan Baig"
++++
+
+I keep getting asked this question by people at work and in my family and every time I give the same jestfull answer: “Next life”. I say with a chuckle.
+
+Yet still, they keep asking and now it’s gotten to the point where the subject occupies so much of my thoughts that it needs to be addressed.
+
+I think it’s mostly with the Asian people & the Muslim people in my life that this happens which is to be expected I guess as marriage in these cultures forms such and important part of life and the concept of non maritle relationships can sometimes be frowned upon.
+
+One person, when I questioned them as to the reasons why I should consider marriage mentioned only one thing, “You get to have sex” (Yes, that person was a man). As if sex is literally the most important thing in the universe.
+
+I replied “Marriage isn’t all about sex”
+
+If you spend your whole life fending off and suppressing sexual urges, off course it will pretty much be the only thing on your mind. This is perhaps one extreme of a scale. Absolutely no sex till marriage then, as much as you like (In theory).
+
+Is that the best way though? Think back to the first time you had sex, how great it was, not for you but for your partner. Can you honestly tell me that if you lost your virginity to a non virgin that they would have enjoyed the experience just as much as you?
+
+Could you say the same for 100% of other first timers? I doubt it. What happens in westernised countries today though is perhaps the opposite extreme of the same scale. People are free to have as many sexual partners as they like without any obligations for commitment, no pressure to stay together beyond even the first encounter.
+
+Then, at least in a measurable proportion of cases it seems, when people are ready to settle down in the traditional sense they are so used to the quick satisfaction of always having new partners available at the swipe of a finger that once they get past that honeymoon period things often break down.
+
+In the year 2022 in the UK alone an estimated 42% of marriages ended in divorce. 42%! That’s 8 percent short of half! The impulsive nature of life in today's world at least in the west, where everything is available right now and we can change our minds whenever we want about absolutely anything as often as we like has meant that when it comes time to take the bad with the good, almost half of us say no thank you, and call it quits.
+
+## What am I looking for?
+
+Unislamic as it is, I think I have an advantage by not being a virgin before marriage. Sex for me now is less important than my life goals and by realising that I can avoid getting into impulsive relationships or rushing into a marriage purely based on the desire for physical intimacy. 
+
+So what am I most interested in when it comes to a potential life partner?
+
+A companion. More importantly a companion that shares my hopes dreams and aspirations and who is willing to put in the work necessary to achieve them so a companion who’s also a teammate.
+
+Someone who doesn’t mind getting up early six to seven days a week (although we could allocate one day a week to live like normal people) and grinding the fuck out of every minute and every hour to make something of our lives that will allow us to achieve all our dreams goals and aspirations to be able to live how we want and help our families, friends and the communities around us.
+
+## My goals, dreams and aspirations:
+
+I have big goals for my life, many things I want to achieve that will require consistent dedication for multiple decades in order to achieve them. At the lowest level I will pay off all the mortgages in my family and buy the family house that we all grew up with to bring it back into the family. I will pay off everyone's debts in my family. I will have the financial resources to be able to travel to anywhere in the world anytime I like as often as I like, though I understand my work might limit that freedom; and I will be able to cover my families medical expenses.
+
+These are some of my smallest goals. One of my biggest goals which I’ve had for a very long time now is to be able to contribute to the end of homelessness at least in some small part. My contribution is simple. Buy a home, find some homeless people who would be willing to help me work towards the mission. Give them that home.
+
+This wouldn’t be some temporary accommodation for them to stay in until they find a job and then move out and find their own home, no. This is THEIRS to keep. A home for them, their children, and their children's, children's children to do with as they please, on one condition. They learn how to make enough money to buy another home and repeat the process all over again for some other homeless people.
+
+This would be a slow process in the beginning but with enough people we could buy blocks of flats instead of houses or in addition to houses. The more people we house, the quicker we could help more people and then the mission begins to progress exponentially.
+
+## Why I’m not married yet.
+
+1. **Learning from the experiences of others.**
+
+I think there’s only two people I know at the moment that are my age or older and still single. Especially in Asian cultures people get married very early. In Islam it’s encouraged for people to get married as early as possible. But I felt like that would be rushing things.
+
+Being raised in a Muslim family and the marriages that I’ve seen take place, progress and in some cases break down in my family have no doubt influenced and affected my thoughts towards the subject.
+
+I feel like in Islam and perhaps other traditional cultures, such an emphases is put on abstaining from sex outside of marriage that by the time someone is ready to get married and is choosing a partner, the desire for it is so great that it can prevent potential couples from properly assessing how compatible they are with each other across the many other, equally important aspects of a maritle relationship that exist outside of the bedroom.
+
+Of the 5 subgroups that makeup my close family, 1 marriage ended in divorce. 1 couple are simply staying together for their kids, one couple are in the most toxic relationship I’ve ever seen, one couple basically just argue all the time over anything and everything, and then one family, at least on the surface, seems to be holding things relatively well together.
+
+That’s a 1 out of 5 success rate and really that one family lives in California so I don’t get to see enough of their lives to truly see how altogether they really are.
+
+As you can see, when it comes to my family, a successful marriage is the exception and not the rule. This, is the main reason why I’ve stayed single for so long. 80% of the experiences I’ve observed in other peoples marriages inside my family has been so negative that in most cases it has affected both parents, and children's mental health and their abilities to hold down jobs.
+
+That’s quite a powerful and understandable reason I think, to avoid marriage for as long as I have.
+
+1. **I’m not yet worthy.**
+
+You may likely disagree with this. But as far as I’m concerned, if someone is going to marry me, they’re going to marry the best of me, not the worst. In Christian tradition I know there is the saying “for better or for worse” but to me this refers to occasions when, despite both peoples genuine best efforts, life doesn’t go as they planned.
+
+In this context, ‘for worse’ might be, deciding to adopt if a couple are unable to have children naturally instead of divorcing. Or, sticking together if a business they built together from the ground up fails, knowing full well that they have what it takes to build another one. It will be hard and it will take time but that’s OK. Life happens to everyone and sometimes we just have to get back on our feet, dust each other off and keep moving forward.
+
+If I am to become a husband I want to be the best husband I can possibly be, factoring in my humanity and it’s limitations off course. At the moment, I’m struggling to reach escape velocity though. To move past my greatest weaknesses as I have been for the longest of times.
+
+It took me over half my life to learn the simplest of lessons: There are no shortcuts; the quickest and perhaps the only way to change my life is one day at a time and, if I want my life to change, I will have to change myself.
+
+More than a year on from this realisation I’m still figuring that process out. I’ve made progress but only minimal progress and as such there are in my mind some minimum requirements that I must meet in order to be worthy of the kind of life partner I desire.
+
+These are:
+
+- **Financial stability and security.**
+Having only one income source is the least financially secure a person can be. It’s almost the same as not having any income sources at all because at any time, anything can happen and I could lose my job. Financial security to me means having at least two or preferably three, stable consistent income sources as a minimum.
+
+Furthermore, these need to be income sources where for the most part, I’m not simply trading time for money because then, how will I give any time to my other half?
+- **Physical fitness and aesthetics to be proud of.**
+If I can’t love myself, how can I expect anyone else to love me? When I look in the mirror, I see some progress compared to my past, but nothing substantial. Mostly, I see what I could be if only I put in the effort. I see my potential and how much of it I’ve wasted over the years but also how simple it would be to look ****SO**** much better than I do now. When it comes to thinking about how we look, I can conceive of two choices: Either I change my mind to accept the way I am now. Or, I change my body to match what I know it could be.
+
+I’ve tried changing my mind. Many, many, ********many******** times. It never worked. Knowing I could be better if only for a little pain. I cannot accept the state I am in now. I need to change and this change is, regardless of how I feel, going to require great sacrifice now, and for the rest of my life.
+
+That’s whats so hard about it. The ‘rest of my life part’ I’m just as human as anyone else, I like ice cream and chocolate and pizza and kebabs, and cakes and cookies and burgers and… wait… what was I talking about again? ********SEE what I mean!?******** I’m weak. Weak as hell when it comes to food. It’s my Achilles heel, my kryptonite as the people who see me on a daily basis know all too well.
+
+This leads me to my third requirement:
+- **Discipline. Plain and simple.**
+Getting out of my bad habits will and can only happen one way. Buy building a habit of cultivating, training and exercising discipline in as many areas of my life as possible on a daily basis regardless of whether I want to or not. Regardless of how hard it gets.
+- **My current values do not (I believe) align with married life.**
+Currently, there are three things in my life that I value above all others.
+
+Peace, Quiet and Freedom.
+
+My dream home, or at least one of them is a log cabin in the Alaskan wilderness 100 miles away from anyone in all directions. Near a river that leads to a lake, with enough clear space to grow food in the summer months. That’s the extent to which I value peace quiet and freedom. Such a home to me would be heaven on earth.
+
+Ironically it seems, at least to me that these are also the first three things a person gives up when entering a relationship. Perhaps I’m wrong, I hope I am but really, how much peace, quiet and freedom do you have in your married life? How much of what you do is what ‘you’ want to do and how much of it is what ‘we’ want or need to do that wouldn’t need to get done if you were single?
+
+Then, when you have kids how much can you do what ‘we’ want to do and how much of that gets sacrificed in favour of what ‘the kids’ want to do.
+
+In the early stages of parenthood, as far as I’m aware, 100% of your lives have to be devoted, dedicated, donated and sacrificed, willingly or perhaps unwillingly, to the children. I can’t imagine any parent ever woke up looking forward to changing their babies nappies.
+
+That’s a silly example but what I’m trying to get at is that marriage and parenthood is no game. There are very serious responsibilities attached to both and if someone is unwilling to uphold those responsibilities then they are by definition not worthy of having a relationship. Not mature enough, not ready enough, not yet.
+
+At 32 years of age I’m just now starting to change my mindset to one that might one day in the next few years be compatible with married life and parenthood. For instance it was only this morning that I had a realisation intrinsically that there are cases where giving up freedoms now can lead to greater freedoms or benefits later. Most, if not all of us know this intellectually, but to know it in your bones is something all together unique and far more powerful.
+
+For instance, like everyone, there are days when I don’t want to go in to work, when I simply don’t feel like it, but do I call in sick or decide to just not turn up? ******NO!****** I take no heed of my emotions and get my fucking ass to work because I’m not a child. I’m an adult with responsibilities.
+
+Sacrificing the freedom to stay in bed and instead going into work gives me the greater benefit of having a roof over my head and bread on my table. I could just leave my job and leech of the government, living off of benefits and the hard work of others, but there’s something special about earning my keep that I don’t want to let go of.
+
+Seeing this, I can at least imagine that there might be some benefits to married life that make it worth giving up a degree of freedom, peace and quiet for. Still, there are things such as those on this list, that I feel I need to achieve before I get married.
+
+## Some perceived benefits of marriage:
+
+Despite the mostly negative experiences of marriage I’ve observed, I’m not blind to at least some of the benefits that I would like to experience such as:
+
+- **Companionship.**
+Emotional, spiritual, intellectual and physical companionship. It’s nice to have someone there, to share your time with, to share your life with. To have someone in your arms when you wake up in the morning. To have someone who you can talk with about the most random topics on the deepest levels. To have someone know you, as well as you do.
+- **A second perspective.**
+Having another person who knows you as well as you do can be extremely beneficial. They can help point out when you’re not putting in 100% towards you goals or if there may be better ways to do some things that you would never have thought of.
+- **Twice the hands, half the work.**
+Provided I choose a partner who has the same or similar goals and aspirations to me we can both help each other to get there and this means we could pool resources and balance workloads fairly between two people which would mean that idealistically, no one individual would ever feel like they have the weight of the entire mission on their shoulders.
+
+This is another reason why I haven’t just doven head first into marriage with the first person who came along. I’m not looking for just anyone. If someone’s ideal life is day job followed by Netflix and chill every day of the week and waking up at 3 PM on weekends then we are not a match!
+
+---
+
+If you have some insight into this subject and would like to help me out there are some questions you can answer that would help me out a lot!:
+
+1. What benefits (outside of the bedroom) do you get from being in a marriage specifically that you cannot get in single life?
+
+2. What did the beginning of your journey towards marriage look like? Were you both looking for partners, or in the act of living did you both happen to stumble upon each other? Or was it an arranged marriage?
+
+3. If it was an arranged marriage, how much freedom did you have in the process or was absolutely everything decided by your parents? How did you feel about it then vs now?
+
+4. Knowing what you know now, would you have done anything differently back then in terms of the process of finding a partner and getting married?
+
+5. What were the biggest compromises you had to make in married life and were there any rewards or benefits to making those compromises?
+
+6. What’s the one best thing that ever happened to you in your life including the life you had before you were married?
+
+If you want to let me know your answers to these questions feel free to copy them into an email and send the response to baigelbytes1@gmail.com.
+
+
+---
+
+
+Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting or helpful. If you'd like to read more articles like this feel free to follow me on twitter using the links on [the homepage](https://baigelbytes.netlify.app) or below.
+
+If you'd like to support my work feel free to share my posts or website on social media. If there's a topic you'd like me to consider feel free to email me at baigelbytes1@gmail.com
+
+
+[*Twitter:* https://twitter.com/baigelbytes](https://twitter.com/BaigelBytes)
