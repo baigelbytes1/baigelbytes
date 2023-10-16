@@ -87,3 +87,9 @@ If you'd like to support my work feel free to share my posts or website on socia
 
 
 [*Twitter:* https://twitter.com/baigelbytes](https://twitter.com/BaigelBytes)
+
+[*IG:* https://www.instagram.com/baigelbtes1/](https://www.instagram.com/baigelbtes1/)
+
+[*Threads:* https://www.threads.net/@baigelbtes1](https://www.threads.net/@baigelbtes1)
+
+[*Gmail:* baigelbytes1@gmail.com](baigelbytes1@gmail.com)

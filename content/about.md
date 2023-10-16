@@ -21,8 +21,6 @@ I write about literally anything that interests me including science, religion, 
 <br>
 <br>
 
-*Email:* baigelbytes1@gmail.com
-
 [*Twitter:* https://twitter.com/baigelbytes](https://twitter.com/BaigelBytes)
 
 [*IG:* https://www.instagram.com/baigelbtes1/](https://www.instagram.com/baigelbtes1/)
