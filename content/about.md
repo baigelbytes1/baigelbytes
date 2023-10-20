@@ -18,6 +18,18 @@ I work in retail and then outside of work I work on me. On living and learning, 
 I write about literally anything that interests me including science, religion, self help & improvment, mental health, and as new topics take my interest moving forward you will see them represented in my posts.
 
 
+## Quotes & Poems:
+
+When I upload poetry or quotes, if you don't see a name after it that's one of mine. Otherwise I will put the authors name or, if the author is unknown then I will put - Unknown, at the end.
+
+## Affiliate links:
+
+I will eventually start using affiliate links at the end of articles and maybe poems. I haven't quite decided yet.
+
+
+
+
+
 <br>
 <br>
 
