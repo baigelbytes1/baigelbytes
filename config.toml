@@ -169,7 +169,7 @@ disableHugoGeneratorInject = false
 
 
     [[params.social]]
-    name = "threads"
+    name = "instagram"
     url  = "https://www.https://www.threads.net/@baigelbtes1?hl=en"
   
    [[params.social]]
