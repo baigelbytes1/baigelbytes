@@ -157,24 +157,24 @@ disableHugoGeneratorInject = false
 
   # Social icons
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:baigelbytes1@gmail.com"
+#  [[params.social]]
+#    name = "email"
+#    url  = "mailto:baigelbytes1@gmail.com"
 
 
 
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/baigelbytes"
+#  [[params.social]]
+#    name = "twitter"
+#    url  = "https://twitter.com/baigelbytes"
 
 
-    [[params.social]]
-    name = "instagram"
-    url  = "https://www.https://www.threads.net/@baigelbtes1?hl=en"
+#    [[params.social]]
+#    name = "instagram"
+#    url  = "https://www.https://www.threads.net/@baigelbtes1?hl=en"
   
-   [[params.social]]
-    name = "instagram"
-    url  = "https://www.instagram.com/baigelbtes1/"
+#   [[params.social]]
+#    name = "instagram"
+#    url  = "https://www.instagram.com/baigelbtes1/"
  
 
 [languages]
