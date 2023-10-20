@@ -27,7 +27,13 @@ When I upload poetry or quotes, if you don't see a name after it that's one of m
 I will eventually start using affiliate links at the end of articles and maybe poems. I haven't quite decided yet.
 
 
+## Socials:
 
+Feel free to follow me on Instagram, Threads and Twitter. I post at least once a day in the morning with a motivational quote or a lesson I'm learning or have just learnt from life.
+
+Links to my socials are just below and can also be found at the bottom of every blog post I write.
+
+If you want daily motivation through example then head on over now.
 
 
 <br>
