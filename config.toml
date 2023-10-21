@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "A blog featuring topics that interest me and hopefully you too! <br> Feel free to follow me on [threads](https://www.threads.net/@baigelbtes1?hl=en), IG or Twitter following the links below:"
+  homeSubtitle = "A blog featuring topics that interest me and hopefully you too!"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -162,15 +162,10 @@ disableHugoGeneratorInject = false
     url  = "mailto:baigelbytes1@gmail.com"
 
 
-
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/baigelbytes"
 
-
-#    [[params.social]]
-#    name = "instagram"
-#    url  = "https://www.https://www.threads.net/@baigelbtes1?hl=en"
   
    [[params.social]]
     name = "instagram"
