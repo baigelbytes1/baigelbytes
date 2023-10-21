@@ -13,7 +13,7 @@ series = ["My Poetry."]
   name = "Adnan Baig"
 +++
 
-What is is that makes the rich man poor? That crosses an ocean to open a door.
+What is is that makes the rich man poor? Who crosses an ocean to open a door.
 
 What is it that makes the poor man rich, who instead of chasing dreams stays seated playing fiddlesticks?
 
