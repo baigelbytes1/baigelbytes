@@ -198,10 +198,15 @@ disableHugoGeneratorInject = false
     name       = "Poems"
     url        = "poems/"
 
-#  [[menu.main]]
-#    identifier = "quotes"
-#    name       = "Quotes"
-#    url        = "Quotes/"
+  [[menu.main]]
+    identifier = "quotes"
+    name       = "Quotes"
+    url        = "Quotes/"
+    
+  [[menu.main]]
+    identifier = "test"
+    name       = "Test"
+    url        = "test/"
 
 
 
