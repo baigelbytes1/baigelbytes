@@ -203,10 +203,10 @@ disableHugoGeneratorInject = false
     name       = "Quotes"
     url        = "Quotes/"
     
-  [[menu.main]]
-    identifier = "test"
-    name       = "Test"
-    url        = "test/"
+#  [[menu.main]]
+#   identifier = "quotes"
+#   name       = "Quotes"
+#   url        = "quotes/"
 
 
 
