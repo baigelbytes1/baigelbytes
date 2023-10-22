@@ -24,7 +24,11 @@ When I upload poetry or quotes, if you don't see a name after it that's one of m
 
 ## Affiliate links:
 
-I will eventually start using affiliate links at the end of articles and maybe poems. I haven't quite decided yet.
+Affiliate links are a great way to earn some passive income without any extra cost to the customers. When you click on an affiliate link and make a purchase, I will get a % of the sale without any extra cost to you.
+
+It helps me out a great deal and I will never post links to random useless rubbish. Only things that are related to the article they are placed in and only things that provide you value somehow.
+
+I will mention every time if a link is an affiliate link or not. The links to my social media accounts are not affiliate links.
 
 
 ## Socials:
@@ -35,6 +39,7 @@ Links to my socials are just below and can also be found at the bottom of every 
 
 If you want daily motivation through example then head on over now.
 
+&nbsp;
 
 ---
 

@@ -11,13 +11,11 @@ date: 2023-10-21
 
 &nbsp;
 
-
 > **“It’s not because things are difficult that we dare not venture. It’s because we dare not venture that they are difficult.”**  - Senneca
 
 &nbsp;
 
 > **"When it's hard it matters most."** - Wes Watson
-
 
 &nbsp;
 
