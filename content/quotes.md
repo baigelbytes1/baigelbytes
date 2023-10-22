@@ -7,13 +7,9 @@ date: 2023-10-21
 
 &nbsp;
 
-&nbsp;
-
 
 > **"A person who never made a mistake is a person who never tried anything new."** - Albert Einstein.
 
-
-&nbsp;
 
 &nbsp;
 
@@ -23,19 +19,12 @@ date: 2023-10-21
 
 &nbsp;
 
-&nbsp;
-
 
 > **Make yourself so strong you can laugh at the things that used to break you!**
 
 &nbsp;
 
-&nbsp;
-
-
 > **Your BEST life or your worst. The choice is yours to make every single day!**
-
-&nbsp;
 
 &nbsp;
 
