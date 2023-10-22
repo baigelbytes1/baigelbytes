@@ -22,4 +22,8 @@ Freedom is to be so grateful that every second is lived not wasted.
 
 Freedom is to take responsibility so the ones you love can live not waste away.
 
+Freedom is ownership through discipline not entitlement and victimhood!
+
+Freedom is to be, your very greatest you.
+
 Do what you can but always do your best. You have no right, to do anything less.
