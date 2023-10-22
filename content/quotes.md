@@ -7,7 +7,7 @@ date: 2023-10-21
 
 &nbsp;
 
-> "It's not about you! It's about all the people who's lives are made infinitely better by you being and becoming your greatest self."
+> "**It's not about you! It's about all the people who's lives are made infinitely better by you being and becoming your greatest self.**"
 
 
 &nbsp;
