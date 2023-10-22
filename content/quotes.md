@@ -10,7 +10,7 @@ date: 2023-10-21
 &nbsp;
 
 
-**"A person who never made a mistake is a person who never tried anything new."** - Albert Einstein.
+> **"A person who never made a mistake is a person who never tried anything new."** - Albert Einstein.
 
 
 &nbsp;
@@ -18,7 +18,7 @@ date: 2023-10-21
 &nbsp;
 
 
-**"Discipline equals freedom! GET AFTER IT!!!"** - Jocko Willink (Obviously)
+> **"Discipline equals freedom! GET AFTER IT!!!"** - Jocko Willink (Obviously)
 
 
 &nbsp;
@@ -26,14 +26,14 @@ date: 2023-10-21
 &nbsp;
 
 
-**Make yourself so strong you can laugh at the things that used to break you!**
+> **Make yourself so strong you can laugh at the things that used to break you!**
 
 &nbsp;
 
 &nbsp;
 
 
-**Your BEST life or your worst. The choice is yours to make every single day!**
+> **Your BEST life or your worst. The choice is yours to make every single day!**
 
 &nbsp;
 
