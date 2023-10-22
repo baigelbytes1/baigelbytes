@@ -45,9 +45,9 @@ If you want daily motivation through example then head on over now.
 
 [*Twitter:* https://twitter.com/baigelbytes](https://twitter.com/BaigelBytes)
 
-[*IG:* https://www.instagram.com/baigelbtes1/](https://www.instagram.com/baigelbtes1/)
+[*IG:* https://www.instagram.com/baigelbtes1/](https://www.instagram.com/baigelbytes1/)
 
-[*Threads:* https://www.threads.net/@baigelbtes1](https://www.threads.net/@baigelbtes1)
+[*Threads:* https://www.threads.net/@baigelbtes1](https://www.threads.net/@baigelbytes1)
 
 [*Gmail:* baigelbytes1@gmail.com](baigelbytes1@gmail.com)
 
