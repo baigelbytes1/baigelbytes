@@ -1,5 +1,5 @@
 +++
-title = "Ingratitude is unacceptable!"
+title = "Freedom isn't free."
 description = ""
 type = ["posts","post"]
 tags = [

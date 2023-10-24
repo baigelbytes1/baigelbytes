@@ -5,6 +5,11 @@ date: 2023-10-21
 
 *Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.*
 
+&nbsp;
+
+> **"Think lightly of yourself and deeply of the world."** - Miyamoto Musashi
+
+&nbsp;
 
 > **“Man is the noblest of all animals. Separate him from law and justice and he is the worst.”** - Aristotle
 
