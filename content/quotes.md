@@ -7,6 +7,18 @@ date: 2023-10-21
 
 &nbsp;
 
+> **”I count him braver who overcomes his desires than him who conquers his enemies; for the hardest victory is over self.”** - Aristotle
+
+&nbsp;
+
+> **”It is the mark of an educated mind to be able entertain a thought without accepting it.”** - Aristotle
+
+&nbsp;
+
+> **”Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution; it represents the wise choice of many alternatives - choice, not chance, determines your destiny.”** - Aristotle 
+
+&nbsp;
+
 > **"Think lightly of yourself and deeply of the world."** - Miyamoto Musashi
 
 &nbsp;
@@ -64,6 +76,13 @@ date: 2023-10-21
 &nbsp;
 
 > **"Success is not final; failure is not fatal: It is the courage to continue that counts."** - Winston S. Churchill
+
+&nbsp;
+
+> **”It is the mark of an educated mind to be able entertain a thought without accepting it.”** - Aristotle
+
+&nbsp;
+
 
 
 
