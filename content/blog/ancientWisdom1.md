@@ -8,7 +8,7 @@ tags = [
     "Self Awareness",
     
 ]
-date = "2023-10-31"
+date = "2023-10-25"
 series = ["seriesName"]
 [ author ]
   name = "Adnan Baig"
