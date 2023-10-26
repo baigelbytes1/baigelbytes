@@ -1,14 +1,14 @@
 +++
-title = "Wisdom of the ages part 1. Aristotle, Ancient Greece."
+title = "Aristotle - Wisdom of the ages (part 1)."
 description = ""
 type = ["posts","post"]
 tags = [
-    "Mental Health",
-    "Life Coaching",
-    "Self Awareness",
+    "Self Improvment",
+    "Happines",
+    "Purpose",
     
 ]
-date = "2023-10-25"
+date = "2023-10-26"
 series = ["seriesName"]
 [ author ]
   name = "Adnan Baig"
@@ -26,7 +26,6 @@ Don't forget the series introduction.
 
 —
 
-Aristotle - Wisdom from the ages (Part1).
 
 ## First, an introduction to the series. Wisdom from the ages:
 
@@ -54,12 +53,17 @@ Captivate your imagination and awe as you take this journey with me, exploring t
 
 > **”Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution; it represents the wise choice of many alternatives - choice, not chance, determines your destiny.”** - Aristotle 
 
-
 Don’t you want to be happy? Fitter? Stronger, smarter, better able to look after yourself and those you love. It’s not going to just happen to you. You have to be the one who makes it happen. Only you.
 
 This is something that Aristotle realised well over 2000 years ago in a completely different civilisation to ours. Aristotle was a philosopher born in the ancient greek city of Stagira (Google Maps)[https://maps.app.goo.gl/3bivXGS9GqmrRy6B6]. But back then, Philosophers were much more than what we might call a philosopher today. Philosophy today is mostly a singular profession, more thought about and taught in universities than practiced by the people in everyday life. Philosophers in ancient times practiced what they preached, for better or for worse.
 
-Aristotle also did not only apply his thoughts to the subject of philosophy. He was a jack of all trades it seemed. Studying, practicing, writing about and teaching natural sciences, linguistics, economics, politics, psychology, the creative arts as well as philosophy. he founded the Peripatetic School, a school of philosophy in 335BC in the Lyceum which played an indirect but influential role in the development of modern science.
+Aristotle also did not only apply his thoughts to the subject of philosophy alone. Studying, practicing, writing about and teaching natural sciences, linguistics, economics, politics, psychology, the creative arts as well as philosophy, he really was a Jack of all trades and perhaps even a master. 
+
+In 335BC Aristotle founded the Peripatetic School, a school of philosophy in the lyceum which played an influential role in the eventual development of modern science. He's also the man who tutored Alexander the great. Aristotle might just have been the greatest philosopher in history. He was certainly one of if not the most influential in his time.
+
+So what can we learn from him that is applicable to us? The fact that life either passes us by, or is forged by our own daily repeated habitual actions. **"Excellence, is never an accident..."** remember? It's achieved through hard work, repeated daily until they become habits. Aristotle taught one of the most important lessons anyone can learn... It's all on you.
+
+That's not the same as saying it's all about you so please don't confuse the two. What I mean to say is that its all up to you. If you want to change your life, you have to change yourself.
 
 
 
