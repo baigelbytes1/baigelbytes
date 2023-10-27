@@ -61,9 +61,18 @@ Aristotle also did not only apply his thoughts to the subject of philosophy alon
 
 In 335BC Aristotle founded the Peripatetic School, a school of philosophy in the lyceum which played an influential role in the eventual development of modern science. He's also the man who tutored Alexander the great. Aristotle might just have been the greatest philosopher in history. He was certainly one of if not the most influential in his time.
 
+
+Aristotle also developed the study or idea of empiricism. Which allowed him to study the world in an objective manner. Rather than simply thinking things over like some of his counterparts, Aristotle thought about how he could uncover the truths of things regardless of his opinion, through observation, hypothesising and testing. This is method would later form a large part of the foundations of the modern scientific method that has propelled us to the levels we are reaching and exceeding still to this day.
+
 So what can we learn from him that is applicable to us? The fact that life either passes us by, or is forged by our own daily repeated habitual actions. **"Excellence, is never an accident..."** remember? It's achieved through hard work, repeated daily until they become habits. Aristotle taught one of the most important lessons anyone can learn... It's all on you.
 
-That's not the same as saying it's all about you so please don't confuse the two. What I mean to say is that its all up to you. If you want to change your life, you have to change yourself.
+That's not the same as saying it's all about you so please don't confuse the two. What I mean to say is that its all up to you. If you want to change your life, you have to change yourself. Aristotle believed that to live a good life of meaning and purpose you must simply try to do better in the areas of life you can control here and now, throughout your day. Your habits.
+
+Additionally Aristotle believed it was a good idea to learn from people who have already acquired and who regularly display the qualities you wish to acquire. It's a surprisingly modern approach that still works today and can be applied across the board.
+
+If you want to become more virtuous, you can learn from those who are more virtuous than you. If you want to become wealthy, you can learn from those who are wealthier than you. If you want to become fitter, smarter, stronger, healthier... you can learn a great great deal from those who are already there.
+
+But that's no excuse not to put the work in to walking your own path. You still have to put the work in yourself. It's walking the path that truly leads to progress. The knowledge helps to steer the way.
 
 
 
