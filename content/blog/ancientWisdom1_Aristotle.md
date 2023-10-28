@@ -8,11 +8,14 @@ tags = [
 	"Purpose",
     
 ]
-date = "2023-10-26"
+date = "2023-10-28"
 series = ["seriesName"]
 [ author ]
   name = "Adnan Baig"
 +++
+
+---
+
 
 ## First, an introduction to the series. Wisdom from the ages:
 
