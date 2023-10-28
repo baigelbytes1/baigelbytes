@@ -79,15 +79,9 @@ Good or bad. Beneficial or detrimental. The choice is yours to make each day, an
 
 Choose wisely.
 
-
-
-
-
-
-
+&nbsp;
 
 ---
-
 
 Thanks for reading this article! Hopefully you enjoyed reading it or at least found it interesting or helpful. If you'd like to read more articles like this feel free to follow me on twitter using the links on [the homepage](https://baigelbytes.netlify.app) or below.
 
