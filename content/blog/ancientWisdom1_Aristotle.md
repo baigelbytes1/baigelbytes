@@ -76,7 +76,10 @@ It's this, boldly moving forward and pushing through the fear that makes them co
 
 Courage is a choice. Just like discipline, just like honesty, just like integrity, temperance and patience. All virtues, and therefore conversely all vices, are choices. It's your choice whether or not to get angry today when you don't need to. It's your choice to eat the right or wrong foods. It's your choice, through the actions you commit to and repeatedly do each day to either become a better or worse person.
 
-Being a good person is a choice. Being a bad person is a choice. Being in control of your life or letting life control you, is a choice.
+
+## It's all up to you.
+
+Being a good person is a choice. Being a bad person is a choice. Being in control of your life or letting life control you, is a choice. Vices and virtues alike are developed through practice just like any other skill.
 
 That's the biggest takeaway I think we can get from Aristotle. The one that hits home with me the most and the one that I think could make the biggest positive impact on the world.
 
