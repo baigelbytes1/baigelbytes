@@ -24,4 +24,4 @@ Tis you that gives me sight.
 
 So put in me some fight O Lord,
 
-to push through any plight.
+To push through any plight.
