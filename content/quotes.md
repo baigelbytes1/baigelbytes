@@ -7,6 +7,10 @@ date: 2023-10-21
 
 &nbsp;
 
+> **"It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell."** - Buddha
+
+&nbsp;
+
 > **”I count him braver who overcomes his desires than him who conquers his enemies; for the hardest victory is over self.”** - Aristotle
 
 &nbsp;
