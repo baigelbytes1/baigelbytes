@@ -5,6 +5,13 @@ date: 2023-10-21
 
 *Quotes by me will have no author cited. Otherwise I will either cite the author or put "- Unknown" if I don't know who the author is.*
 
+
+
+
+&nbsp;
+
+> **”Difficulties strengthen the mind as labour does the body.”** - Seneca
+
 &nbsp;
 
 > **"It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell."** - Buddha
