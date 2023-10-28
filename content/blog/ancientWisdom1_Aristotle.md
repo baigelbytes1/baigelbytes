@@ -41,9 +41,7 @@ Captivate your imagination and learn from the records of history as you take thi
 
 ## Aristotle - “Happiness depends upon ourselves.”
 
-> **”Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution;
-
-it represents the wise choice of many alternatives - choice, not chance, determines your destiny.”** - Aristotle
+> **”Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution; it represents the wise choice of many alternatives - choice, not chance, determines your destiny.”** - Aristotle
 
 Don’t you want to be happy? Fitter? Stronger, smarter, better able to look after yourself and those you love. It’s not going to just happen to you. You have to be the one who makes it happen. Only you.
 
