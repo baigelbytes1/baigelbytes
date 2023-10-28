@@ -17,7 +17,7 @@ series = ["seriesName"]
 ---
 
 
-## First, an introduction to the series. Wisdom from the ages:
+## First, an introduction to the series. Wisdom of the ages:
 
 > “Those who fail to learn from history are doomed to repeat it.” - Winston Churchill.
 
