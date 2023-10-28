@@ -29,11 +29,11 @@ The great thing about the ancient times is, how similar they were to our times. 
 
 Societies and individuals today still struggle with frighteningly similar problems to the ones faced by people thousands of years in the past and across multiple civilisations around the world.
 
-In this series, I will attempt to uncover the people, traditions, philosophies and ultimately solutions to the key problems people face today that the philosophers, sages, warriors, kings and pheasants figured out eon’s past.
+In this series, I will attempt to uncover the people, traditions, philosophies and ultimately solutions to the key problems people face today that the philosophers, sages, warriors, kings and pheasants figured out in eon’s past.
 
 As you read through the articles I will post in this series you might, like me, be surprised at just how similar the lives of these ancient seekers of wisdom were to ours and how much more extreme their situations sometimes were.
 
-Captivate your imagination and awe as you take this journey with me, exploring the wisdom of the ages.
+Captivate your imagination and learn from the records of history as you take this journey with me, exploring the wisdom of the ages.
 
 &nbsp;
 
@@ -41,30 +41,32 @@ Captivate your imagination and awe as you take this journey with me, exploring t
 
 ## Aristotle - “Happiness depends upon ourselves.”
 
-> **”Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution; it represents the wise choice of many alternatives - choice, not chance, determines your destiny.”** - Aristotle
+> **”Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution;
+
+it represents the wise choice of many alternatives - choice, not chance, determines your destiny.”** - Aristotle
 
 Don’t you want to be happy? Fitter? Stronger, smarter, better able to look after yourself and those you love. It’s not going to just happen to you. You have to be the one who makes it happen. Only you.
 
-This is something that Aristotle realised well over 2000 years ago in a completely different civilisation to ours. Aristotle was a philosopher born in the ancient Greek city of Stagira (Google Maps)[https://maps.app.goo.gl/3bivXGS9GqmrRy6B6]. But back then, Philosophers were much more than what we might call a philosopher today. Philosophy today is mostly a singular profession, more thought about and taught in universities than practised by people in everyday life. Philosophers in ancient times practised what they preached, for better or for worse.
+This is something that Aristotle realised well over 2000 years ago in a completely different civilisation to ours. Aristotle was a philosopher born in the ancient Greek city of Stagira [Google Maps](https://maps.app.goo.gl/3bivXGS9GqmrRy6B6).
+
+But back then, Philosophers were much more than what we might call a philosopher today. Philosophy today is mostly a singular profession. More thought about and taught in universities than practised by people in everyday life. Philosophers in ancient times practised what they preached, for better or for worse.
 
 Aristotle also did not only apply his thoughts to the subject of philosophy alone. Studying, practising, writing about and teaching natural sciences, linguistics, economics, politics, psychology, multiple forms of maths, the creative arts and philosophy, he really was a Jack of all trades and perhaps even a master.
 
-In 335BC Aristotle founded the Peripatetic School, a school of philosophy in the lyceum which played an influential role in the eventual development of modern science. He's also the man who tutored Alexander the great. Aristotle might just have been the greatest philosopher in history. He was certainly one of if not the most influential in his time.
+In 335BC Aristotle founded the Peripatetic School, a school of philosophy in the lyceum which played an influential role in the eventual development of modern science. He's also the man who tutored Alexander the great. Aristotle might just have been one of the most influential philosophers in history.
 
-Aristotle also developed the study or idea of empiricism. Which allowed him to study the world in an objective manner. Rather than simply thinking things over like some of his counterparts, Aristotle thought about how he could uncover the truths of things regardless of his opinion, through observation, hypothesising and testing.
-
-This method would later form the foundations of the modern scientific method that has propelled us to the levels we are reaching and exceeding still to this day.
+He also developed the concept of empiricism. Which allowed him to study the world in an objective manner. Rather than simply thinking things over like some of his counterparts, Aristotle actually thought about how he could uncover the truths of things regardless of his opinion, through observation, hypothesising and testing.
 
 
 ## So what can we apply to our own lives?
 
-So what can we learn from him that is applicable to us? The fact that life either passes us by, or is forged by our own daily repeated habitual actions. **"Excellence is never an accident..."** remember? It's achieved through hard work, repeated daily until they become habits. Aristotle taught one of the most important lessons anyone can learn... It's all on you.
+So what can we learn from him that is applicable to us? The fact that life either passes us by, or is forged by our own daily repeated habitual actions. **"Excellence is never an accident..."** remember? It's achieved through hard works, repeated daily until they become habits. Aristotle taught one of the most important lessons anyone can learn... It's all down to you.
 
 That's not the same as saying it's all about you so please don't confuse the two. What I mean to say is that its all up to you. If you want to change your life, you have to change yourself. Aristotle believed that to live a good life of meaning and purpose you must simply try to do better in the areas of life you can control here and now, throughout your day. Your habits
 
-Aside from the fact that his methods of studying the world around him through observation, led to the modern scientific method that built the entire infrastructure of the world we live in today. Aristotle also taught one truly indispensable lesson:
+Aside from that and the fact that his methods of studying the world around him through observation led to the modern scientific method that literally built the entire infrastructure of the world we live in today. Aristotle also taught one truly indispensable lesson:
 
-**Virtues can be learned.**
+### Virtues can be learned.
 
 They are not necessarily things we are born with though some people may be born with a greater or lesser propensity towards them. Virtues can be learned. And they are learned through careful, mindful practice. Daily practice. Habitual practice. Just like our vices can become habits if we let them. Virtues can be learned, trained, developed, maintained and habituated.
 
