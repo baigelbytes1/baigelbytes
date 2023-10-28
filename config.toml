@@ -1,4 +1,4 @@
-baseURL = "https://github.com/baigelbytes1/testingBaigelbytes1.git"
+baseURL = "https://github.com/baigelbytes1/baigelbytes.netlify.app"
 title   = "BaigelBytes Testing Site!!"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
