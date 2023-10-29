@@ -1,5 +1,5 @@
-baseURL = "https://baigelbytes.netlify.app/"
-title   = "Baigel Bytes"
+baseURL = "https://github.com/baigelbytes1/baigelbytes.netlify.app"
+title   = "BaigelBytes Testing Site!!"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
 
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "A blog featuring topics that interest me and hopefully you too!"
+  homeSubtitle = "For me to test drafts and new features out."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
