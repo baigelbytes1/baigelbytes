@@ -8,7 +8,7 @@ tags = [
 	"Purpose",
     
 ]
-date = "2023-10-28"
+date = "2023-10-29"
 series = ["seriesName"]
 [ author ]
   name = "Adnan Baig"
@@ -20,6 +20,8 @@ series = ["seriesName"]
 ## First, an introduction to the series. Wisdom of the ages:
 
 > “Those who fail to learn from history are doomed to repeat it.” - Winston Churchill.
+
+Adnan
 
 This is true, not just for societies and cultures at large, across centuries and millennia, but across decades, years, months and days in and throughout our own individual lives.
 
