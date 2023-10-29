@@ -1,5 +1,5 @@
 baseURL = "https://github.com/baigelbytes1/baigelbytes.netlify.app"
-title   = "BaigelBytes Testing Site!!"
+title   = "Baigel Bytes"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
 
