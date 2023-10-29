@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "For me to test drafts and new features out."
+  homeSubtitle = "A blog featuring topics that interest me and hopefully you too."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
